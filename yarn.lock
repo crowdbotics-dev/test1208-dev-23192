@@ -960,6 +960,9 @@
 "@modules/articles@file:./modules/articles":
   version "1.0.0"
 
+"@modules/articles@file:./modules/articles/":
+  version "1.0.0"
+
 "@modules/chat@file:./modules/chat":
   version "1.0.0"
   dependencies:
@@ -968,7 +971,7 @@
     react-native-emoji-selector "^0.2.0"
     react-native-keyboard-aware-scroll-view "^0.9.3"
 
-"@modules/onboarding@file:./modules/onboarding/":
+"@modules/onboarding@file:./modules/onboarding":
   version "1.0.0"
   dependencies:
     react-native-app-intro-slider "^4.0.4"
